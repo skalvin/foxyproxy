@@ -16,7 +16,7 @@ was introduced, it will share the same version number as FoxyProxy Standard.
 
 ---
 
-foxyproxy_standard-7.4.1-an+fx.xpi
+foxyproxy_standard-7.4.1-an+fx.xpi - [Click to Download](https://github.com/skalvin/foxyproxy/raw/main/foxyproxy_standard-7.4.1-an+fx.xpi)
 
 914 KB
 
