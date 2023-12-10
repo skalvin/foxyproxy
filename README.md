@@ -1,5 +1,9 @@
 # foxyproxy / firefox-extension 7.4.1 Standard -- 2019-10-19
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/skalvin/foxyproxy/assets/103864971/d7ef1618-12d9-427a-be4d-d6c0b1116f68">
+</p>
+
 * Escape button works to close the current FoxyProxy window and return to the previous (if there is a previous).
 * Dialog box color changes for consistency
 * Import optimizations and increase on import file size from 5 MB to 10 MB
