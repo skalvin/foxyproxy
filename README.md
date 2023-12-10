@@ -1,4 +1,4 @@
-# foxyproxy/ firefox-extension 7.4.1 Standard -- 2019-10-19
+# foxyproxy / firefox-extension 7.4.1 Standard -- 2019-10-19
 
 * Escape button works to close the current FoxyProxy window and return to the previous (if there is a previous).
 * Dialog box color changes for consistency
